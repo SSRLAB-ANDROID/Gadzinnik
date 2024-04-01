@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Gadzinnik</string>
+
+    <string name="divider">:</string>
+    <string name="time_hours">11</string>
+    <string name="time_minutes">30</string>
+
+</resources>
